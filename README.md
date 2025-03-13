@@ -17,7 +17,7 @@
 
 ## 🖥️ Screenshot
 
-![Bashrc Alias Manager Toolkit](https://i.ibb.co/nqVsDPhT/13-03-2025-T17-29-28.png)
+![13-03-2025T17-29-28](https://github.com/user-attachments/assets/99ff1fa1-7010-4c82-b2fe-f470688f9c32)
 
 ## 🛠️ Requirements
 
